@@ -1,0 +1,17 @@
+.singleService {
+    background-size: cover;
+    padding: 120px 0;
+    background-position: center;
+    background-color: #00000080;
+    background-blend-mode: color;
+}
+.singleService h3 {
+    color: #fff;
+    font-size: 48px;
+}
+.details-service{
+    padding: 80px 0;
+}
+.details-service p{
+    color: #606060;
+}

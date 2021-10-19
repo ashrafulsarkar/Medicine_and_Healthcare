@@ -1,0 +1,22 @@
+#footer {
+    padding: 100px 0 20px 0;
+    background-color: #262626;
+}
+.footer-text {
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.footer-text p {
+    color: #d7d7d7;
+    font-size: 14px;
+    margin: 0;
+}
+.footer-text h4{
+    color: #fff;
+}
+.copyRight {
+    padding-top: 50px;
+    color: #fff;
+    font-size: 14px;
+}

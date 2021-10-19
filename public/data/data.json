@@ -1,0 +1,42 @@
+[
+    {   "key":"xynal01",
+        "name":"Diagnostics",
+        "shortdec": "We consider all the signs and symptoms of a patient to diagnose.",
+        "details":"Medical diagnosis is the process of determining which disease or condition explains a person's symptoms and signs. It is most often referred to as diagnosis with the medical context being implicit.",
+        "image":"./images/01.jpg"
+    },
+    {
+        "key":"xynal02",
+        "name":"Therapeutics",
+        "shortdec": "Therapeutics, treatment and care of a patient for the purpose of both.","details":"Therapeutics, treatment and care of a patient for the purpose of both preventing and combating disease or alleviating pain or injury. The term comes from the Greek therapeutikos, which means “inclined to serve. In a broad sense, therapeutics means serving and caring for the patient in a comprehensive manner, preventing disease as well as managing specific problems. Exercise, diet, and mental factors are therefore integral to the prevention, as well as the management, of disease processes. More specific measures that are employed to treat specific symptoms include the use of drugs to relieve pain or treat infection, surgery to remove diseased tissue or replace poorly functioning or nonfunctioning organs with fully operating ones, and counseling or psychotherapy to relieve emotional distress. Confidence in the physician and in the method selected enhances effectiveness.",
+        "image":"./images/02.jpg"
+    },
+    {
+        "key":"xynal03",
+        "name":"Laboratory",
+        "shortdec": "For patients’ convenience, we run the lab right here at our facility.",
+        "details":"Only a quid me old mucker squiffy tomfoolery grub cheers ruddy cor blimey guvnor in my flat, up the duff Eaton car boot up the kyver pardon you A bit of how's your father David skive off sloshed, don't get shirty with me chip shop vagabond crikey bugger Queen's English chap.",
+        "image":"./images/03.jpg"
+    },
+    {   
+        "key":"xynal04",
+        "name":"Surgery",
+        "shortdec": "All types of surgeries are handles expertly in our special facility.",
+        "details":"Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas.",
+        "image":"./images/04.jpg"
+    },
+    {
+        "key":"xynal05",
+        "name":"Cardiology",
+        "shortdec": "Animals can have cardiac issues, so we recommend timely checkups.",
+        "details":"Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine.",
+        "image":"./images/05.jpg"
+    },
+    {
+        "key":"xynal06",
+        "name":"Physical Therapy",
+        "shortdec": "After certain traumas, your pets might need special care routine.",
+        "details":"Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical examination, diagnosis, prognosis, patient education, physical intervention, rehabilitation, disease prevention and health promotion.",
+        "image":"./images/06.jpg"
+    }
+]

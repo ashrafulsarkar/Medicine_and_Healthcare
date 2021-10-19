@@ -1,38 +1,23 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+    font-family: 'Open Sans', sans-serif !important;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+ 
+/* Extra small Device. */
+@media (max-width: 600px) {
+    .hero-part h3 {
+        font-size: 30px !important;
+    }
+    .top-contact h5, .location h5 {
+        font-size: 12px !important;
+    }
+    .top-contact span, .location span {
+        font-size: 11px !important;
+        display: block;
+    }
+    .about-text {
+        margin: 0 !important;
+        padding-top: 30px;
+    }
 }

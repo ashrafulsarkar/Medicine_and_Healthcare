@@ -1,0 +1,23 @@
+.appointment {
+    padding: 80px 0;
+}
+.appointment-part {
+    padding: 50px;
+    background: #fff;
+}
+.appointment-part h3 {
+    font-size: 40px;
+    margin: 0;
+}
+.appointment-part p {
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 30px;
+}
+.appointment-part button {
+    background: #ee416b;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 4px;
+}

@@ -1,0 +1,13 @@
+.notFound {
+    padding: 120px 0;
+    text-align: center;
+}
+.notFound h5 {
+    font-size: 100px;
+    color: #388893;
+    margin: 0;
+}
+.notFound span {
+    display: block;
+    font-size: 60px;
+}

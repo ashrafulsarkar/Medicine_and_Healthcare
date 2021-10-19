@@ -1,0 +1,44 @@
+img{
+    max-width: 100%;
+}
+.single-service {
+    box-shadow: 0px 0px 35px 1px rgb(55 41 67 / 10%);
+    margin-bottom: 30px;
+}
+.service-details {
+    text-align: center;
+    padding: 30px;
+}
+.site-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.site-title h3 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.site-title p {
+    color: #6e6e6e;
+}
+.service-details h3 {
+    font-size: 24px;
+    margin-bottom: 23px;
+}
+.service-details p {
+    font-size: 14px;
+    color: #787878;
+}
+.service-btn a {
+    text-decoration: none;
+    padding: 8px 30px;
+    background: #ee416b;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-top: 30px;
+    display: block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}

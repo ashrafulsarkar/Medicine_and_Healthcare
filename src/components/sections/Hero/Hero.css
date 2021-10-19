@@ -1,0 +1,40 @@
+.hero-section{
+    padding: 80px 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hero-part {
+    background: #fff;
+    padding: 60px;
+}
+.hero-part h3 {
+    font-size: 66px;
+    color: #262626;
+    font-weight: 600;
+}
+.hero-part h3 span{
+    color: #ff436b;
+}
+.hero-part h5 {
+    font-size: 22px;
+    font-weight: 300;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    position: relative;
+}
+.hero-part h5::after {
+    position: absolute;
+    content: '';
+    height: 2px;
+    width: 50px;
+    background: #b9b9b9;
+    bottom: 0;
+    left: 0;
+    border-radius: 30px;
+}
+.hero-part p {
+    margin: 0;
+    font-size: 14px;
+    color: #7c7c7c;
+}

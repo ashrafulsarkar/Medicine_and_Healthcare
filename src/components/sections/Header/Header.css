@@ -1,0 +1,23 @@
+.header-top {
+    padding: 20px 0;
+}
+.top-contact h5,
+.location h5 {
+    margin: 0;
+}
+.top-contact span, 
+.location span {
+    font-size: 14px;
+    color: #7e7e7e;
+}
+.header-boottom {
+    padding-bottom: 15px;
+}
+.header-boottom .nav-link {
+    color: #262626;
+}
+.logout-btn:hover {
+    color: black;
+    background: none;
+    border: none;
+}
