@@ -7,6 +7,9 @@ One of the most important factors about a pet’s life is the information of, th
 
 ## Feature Overview
 
+* Modern and beautiful design.
+* Login and registration system added.
+* You will get the service easily.
 * We employ certified doctors only.
 * Dr. Jane Patterson is a board certified Family Medicine physician who provides primary care
 * Professional laboratory team is always at your service at our clinic!
